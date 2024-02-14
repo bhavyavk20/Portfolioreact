@@ -1,0 +1,32 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+h1
+{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.home
+{
+  background-color: black;
+  text-align: center;
+  padding: 30px;
+  font-weight: 200;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+
+}
+li
+{
+   display: inline;
+   color: white;
+   padding: 30px;
+}
+.home li a
+{
+   color: white;
+   text-decoration: none;
+}
